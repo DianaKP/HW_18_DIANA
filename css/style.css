@@ -1,0 +1,126 @@
+headernav {
+    float: right;
+    vertical-align:top;
+    margin-right: 0;
+    color: white;
+    vertical-align: baseline;
+    justify-content: space-between;
+    display: inline-block;
+    font-family: satisfy, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    padding-top: 50px;
+    padding-right: 450px;
+    
+    
+}
+
+header {
+    display: flex;
+    vertical-align: top;
+    height: 150px;
+    background-color: black;
+    justify-content: space-between;
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 25px;
+   
+}
+.logo {
+    vertical-align: top;
+    padding: 1%;
+    text-align: center;
+}
+h1 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    padding-top: 15px;
+    font-family: satisfy, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 62px;
+    color: #fe6b6b;
+}
+
+p {
+    font-family: hero-new-regular, sans-serif;
+    font-style: normal;
+    font-weight: 100;
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+li {
+    display: inline-block;
+    justify-content: flex-end;
+
+}
+ul {
+    width: 50%;
+    margin-left: auto;
+}
+.heroimage {
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+    float: left;
+    margin-right: 25px;
+    
+}
+.right {
+    display: inline-block;
+    width: 50%;
+    justify-content: flex-end;
+    margin-right: 0%;
+}
+
+.hero {
+    width: 100%;
+    margin: 0;
+
+}
+.content {
+    display: inline-block;
+    width: 75%;
+
+  
+
+
+    
+}
+
+footer {
+    background-color: black;
+    padding: 1%;
+    clear: both;
+    display: flex;
+    justify-content: space-between;
+    font-family: , sans-serif;
+    font-family: hero-new-hairline, sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 22px;
+    padding-top: 50px;
+    
+}
+footer ul {
+    display: inline-block;
+}
+footer li {
+    color: white;
+    justify-content: space-between;
+}
+
+.footerlogo {
+    display: inline-block;
+}
+.footerRight {
+    float: right;
+    justify-content: flex-end;
+}
